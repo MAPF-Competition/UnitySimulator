@@ -7,11 +7,7 @@ Unity: [https://unity.com/download](https://unity.com/download)
 Pybind11: [https://pybind11.readthedocs.io/en/stable/](https://pybind11.readthedocs.io/en/stable/)
 
 
-## Next steps
-1. A mechanism to generate problems. 
-The graph format may follow what we already have. 
-Problems can be either one-shot or lifelong (multi-goal). 
-2. Integrate MAPF planners
+
 ## Folder structure
 ```
 ├── Assets/
